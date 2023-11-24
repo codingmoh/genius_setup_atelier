@@ -56,25 +56,25 @@ Changelog:
 
 - System Preferences:
 	- **Recommended:**
-		- [ ] Set Screensaver to Never (Screensaver)
-		- [ ] Disable Automatic Software Updates (Software Update)
-		- [ ] Set Computer and Display Sleep to Never (Energy Saver)
-		- [ ] Set Desktop background to solid black (Desktop)
-		- [ ] Uncheck "Disable Automatic Login" (Security)
-		- [ ] Enable Automatic Login for a specific user (Users & Groups)
+		- [x] Set Screensaver to Never (Screensaver)
+		- [x] Disable Automatic Software Updates (Software Update)
+		- [x] Set Computer and Display Sleep to Never (Energy Saver)
+		- [x] Set Desktop background to solid black (Desktop)
+		- [x] Uncheck "Disable Automatic Login" (Security)
+		- [x] Enable Automatic Login for a specific user (Users & Groups)
 	- **Optional:**
-		- [ ] Enable Screensharing and Filesharing (Sharing)
-		- [ ] Disable Bluetooth Setup Assistant(Bluetooth)
-		- [ ] Disable Notification Center/Set Do Not Disturb to be 24hrs (Notification Center)
+		- [x] Enable Screensharing and Filesharing (Sharing)
+		- [x] Disable Bluetooth Setup Assistant(Bluetooth)
+		- [x] Disable Notification Center/Set Do Not Disturb to be 24hrs (Notification Center)
 	
 - Booting into your software
-	- [ ] Use Login Items in _Users and Groups_ or use a Launch Agent
+	- [x] Use Login Items in _Users and Groups_ or use a Launch Agent
 - Keeping the software running at all times\
-	- [ ] Use a Launch Agent to start your app and have the OS keep it running
+	- [x] Use a Launch Agent to start your app and have the OS keep it running
 - Rebooting automatically
 	- [ ] Use the "Schedule" button in _Energy Saver_ to schedule regular reboots
 - Remote access and logging
-	- [ ] Set up something to log in to the computer remotely (Logmein, Teamviewer, etc)
+	- [x] Set up something to log in to the computer remotely (Logmein, Teamviewer, etc)
 	- [ ] Log various details about the computer and app to textfiles or to slack
 - Testing
 	- [ ] Do several test boots and scenarios and monitor for the first week to make sure everything is functioning predictably
